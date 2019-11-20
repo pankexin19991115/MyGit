@@ -16,4 +16,7 @@ public class MainActivity extends AppCompatActivity {
     private void fun1(){
         Log.d(TAG, "fun1: ");
     }
+    private void fun2(){
+        Log.d(TAG, "fun2: ");
+    }
 }
